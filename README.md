@@ -1,7 +1,64 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# My Data Science Notebook
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Introduction
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Welcome to my data science notebook! In this notebook, I will explore various tools and techniques used in the field of data science. We will cover topics such as programming languages, libraries, and tools commonly used by data scientists.
+## Data Science Programming Languages
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- Python
+- R
+- SQL
+
+## Data Science Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+
+
+## Data Science Tools
+
+| Tool         | Description                              |
+|--------------|------------------------------------------|
+| Jupyter      | Interactive notebook for data analysis   |
+| TensorFlow   | Open-source machine learning framework   |
+| scikit-learn | Machine learning library in Python       |
+
+## Arithmetic Expressions
+
+- Suma: 2 + 3 = 5
+- Resta: 5 - 3 = 2
+- Multiplicación: 2 * 3 = 6
+- División: 6 / 2 = 3
+
+# Multiplicación
+result_multiplication = 3 * 4
+print("Resultado de la multiplicación:", result_multiplication)
+
+# Suma
+result_sum = 3 + 4
+print("Resultado de la suma:", result_sum)
+
+
+# Definir la cantidad de minutos
+minutes = 150
+
+# Convertir minutos a horas
+hours = minutes / 60
+
+# Mostrar el resultado
+print(minutes, "minutos equivalen a", hours, "horas.")
+
+
+
+## Objetivos
+
+- Aprender sobre herramientas de ciencia de datos.
+- Practicar expresiones aritméticas.
+- Compartir conocimientos sobre lenguajes y bibliotecas de ciencia de datos.
+
+
+## Autor
+
+Este cuaderno fue creado por [Nombre del autor].
+
